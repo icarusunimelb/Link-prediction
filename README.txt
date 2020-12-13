@@ -1,8 +1,6 @@
-./ comp90051-2020-sem2-proj1
-./ data_processing 
-./ sampling.ipynb
-./ feature_extraction.ipynb
-./ training.ipynb
+# Twitter Social Network Link Prediction
+
+The detailed introduction of this project can be find in ProjectSpec.pdf.
 
 The order to run the program is sampling.ipynb -> feature_extraction.ipynb -> training.ipynb.
 
